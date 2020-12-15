@@ -8,5 +8,6 @@ public class Test {
         System.out.println("Hello Git!!!");
         System.out.println("Hello Git!!!");
         System.out.println("哈哈哈哈，我是dev分支");
+        System.out.println("我是master主分支！");
     }
 }
